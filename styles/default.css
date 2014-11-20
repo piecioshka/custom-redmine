@@ -1,7 +1,9 @@
+/* Hide right column */
 html > body > div#wrapper > div#wrapper2 > div#wrapper3 > div#main > div#sidebar {
     display: none !important;
 }
 
+/* Expand main section */
 html > body > div#wrapper > div#wrapper2 > div#wrapper3 > div#main > div#content {
     width: 100% !important;
 }

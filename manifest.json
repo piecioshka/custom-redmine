@@ -1,7 +1,7 @@
 {
     "name": "Custom Redmine",
     "manifest_version": 2,
-    "version": "0.0.2",
+    "version": "0.0.3",
     "icons": {
         "32": "images/thumbs/32x32.png",
         "48": "images/thumbs/48x48.png",
