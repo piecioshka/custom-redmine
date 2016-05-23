@@ -1,7 +1,7 @@
 {
     "name": "Custom Redmine",
     "manifest_version": 2,
-    "version": "0.0.3",
+    "version": "0.0.4",
     "icons": {
         "32": "images/thumbs/32x32.png",
         "48": "images/thumbs/48x48.png",
@@ -9,8 +9,16 @@
     },
     "content_scripts": [
         {
-            "matches": ["*://rdm.redefine.pl/*", "*://redmine.redefine.pl/*"],
-            "css": ["styles/default.css"]
+            "matches": [
+                "*://rdm.redefine.pl/*",
+                "*://redmine.redefine.pl/*"
+            ],
+            "css": [
+                "styles/default.css"
+            ],
+            "js": [
+                "scripts/main.js"
+            ]
         }
     ]
 }
