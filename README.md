@@ -8,9 +8,9 @@ Use this extension to hide the right column (sidebar) on your task list in Redmi
   ```bash
   git clone https://github.com/piecioshka/custom-redmine.git
   ```
-3. In Google Chrome, go to: `chrome://extensions/`
-4. Click: `Load unpacked`
-5. Refresh page
+2. In Google Chrome, go to: `chrome://extensions/`
+3. Click: `Load unpacked`
+4. Refresh page
 
 ## License
 
