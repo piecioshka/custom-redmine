@@ -2,7 +2,7 @@
 
 Use this extension to hide the right column (sidebar) on your task list in Redmine.
 
-## Usage
+## Installation
 
 1. Download that project with the `Download` link, or:
   ```bash
