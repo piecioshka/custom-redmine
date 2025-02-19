@@ -1,10 +1,11 @@
-# ![Redmine icon](https://raw.githubusercontent.com/piecioshka/custom-redmine/master/images/thumbs/32x32.png) Custom Redmine
+# ![](https://raw.githubusercontent.com/piecioshka/custom-redmine/master/images/thumbs/32x32.png) Custom Redmine
+
+🧩 Chrome extension to customize Redmine
 
 Use this extension to hide the right column (sidebar) on your task list in Redmine.
 
 ## Installation
 
-- Download that project with the `Download` zip, or clone the repo
 - Open chrome://extensions/
 - Enable developer mode
 - Click on "Load unpacked"
@@ -16,4 +17,4 @@ Use this extension to hide the right column (sidebar) on your task list in Redmi
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org/) @ 2014
+[The MIT License](https://piecioshka.mit-license.org/) @ 2014
