@@ -17,4 +17,4 @@ Use this extension to hide the right column (sidebar) on your task list in Redmi
 
 ## License
 
-[The MIT License](https://piecioshka.mit-license.org/) @ 2014
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
